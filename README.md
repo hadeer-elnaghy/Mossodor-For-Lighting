@@ -7,4 +7,4 @@
 • Efficient Inventory Management Across Stores: Streamlined processes for better stock oversight.<br />
 • Support for Multiple Payment Gateways: Flexible payment options to cater to diverse customer needs.<br />
 
-##Live Preview https://www.mossodor.com
+## Live Preview https://www.mossodor.com
