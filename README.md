@@ -9,6 +9,7 @@ Mossodor is a multi-tenant WooCommerce solution that streamlines the management 
 • Efficient Inventory Management Across Stores: Streamlined processes for better stock oversight.<br />
 • Support for Multiple Payment Gateways: Flexible payment options to cater to diverse customer needs.<br />
 
+## Dashboard
 ![alt text](https://github.com/hadeer-elnaghy/Mossodor-Lighting-Store/blob/14d9788b41c96297b875918e314470afe0422296/mossodor.png)
 
 ## Live Preview https://www.mossodor.com
