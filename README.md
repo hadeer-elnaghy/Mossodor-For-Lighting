@@ -1,4 +1,4 @@
-# Mossodor-For-Lighting
+# Mossodor For Lighting
 
 • Centralized Dashboard for E-Commerce Management: Simplifies the management of multiple online stores from a single interface.<br />
 • Multi-Tenant Architecture for Multiple Users: Support for various users, each with tailored experiences.<br />
@@ -6,4 +6,4 @@
 • Efficient Inventory Management Across Stores: Streamlined processes for better stock oversight.<br />
 • Support for Multiple Payment Gateways: Flexible payment options to cater to diverse customer needs.<br />
 
-##Live Preview https://www.mossodor.com/
+##Live Preview https://www.mossodor.com
